@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-tutorial",
+  "version": "1.0.0",
+  "description": "Coding along with Net Ninja: https://youtu.be/O_9u1P5YjVc?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
